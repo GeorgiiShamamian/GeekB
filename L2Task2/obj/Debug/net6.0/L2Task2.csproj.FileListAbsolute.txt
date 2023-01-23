@@ -1,0 +1,15 @@
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson2\L2Task2\obj\Debug\net6.0\L2Task2.csproj.AssemblyReference.cache
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson2\L2Task2\obj\Debug\net6.0\L2Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson2\L2Task2\obj\Debug\net6.0\L2Task2.AssemblyInfoInputs.cache
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson2\L2Task2\obj\Debug\net6.0\L2Task2.AssemblyInfo.cs
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson2\L2Task2\obj\Debug\net6.0\L2Task2.csproj.CoreCompileInputs.cache
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson2\L2Task2\bin\Debug\net6.0\L2Task2.exe
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson2\L2Task2\bin\Debug\net6.0\L2Task2.deps.json
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson2\L2Task2\bin\Debug\net6.0\L2Task2.runtimeconfig.json
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson2\L2Task2\bin\Debug\net6.0\L2Task2.dll
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson2\L2Task2\bin\Debug\net6.0\L2Task2.pdb
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson2\L2Task2\obj\Debug\net6.0\L2Task2.dll
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson2\L2Task2\obj\Debug\net6.0\refint\L2Task2.dll
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson2\L2Task2\obj\Debug\net6.0\L2Task2.pdb
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson2\L2Task2\obj\Debug\net6.0\L2Task2.genruntimeconfig.cache
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson2\L2Task2\obj\Debug\net6.0\ref\L2Task2.dll
