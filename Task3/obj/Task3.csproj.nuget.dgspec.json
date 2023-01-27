@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shamg\\OneDrive\\Рабочий стол\\C#\\Task3\\Task3.csproj": {}
+    "C:\\Users\\shamg\\OneDrive\\Рабочий стол\\C#\\Lesson3\\Task3\\Task3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shamg\\OneDrive\\Рабочий стол\\C#\\Task3\\Task3.csproj": {
+    "C:\\Users\\shamg\\OneDrive\\Рабочий стол\\C#\\Lesson3\\Task3\\Task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shamg\\OneDrive\\Рабочий стол\\C#\\Task3\\Task3.csproj",
+        "projectUniqueName": "C:\\Users\\shamg\\OneDrive\\Рабочий стол\\C#\\Lesson3\\Task3\\Task3.csproj",
         "projectName": "Task3",
-        "projectPath": "C:\\Users\\shamg\\OneDrive\\Рабочий стол\\C#\\Task3\\Task3.csproj",
+        "projectPath": "C:\\Users\\shamg\\OneDrive\\Рабочий стол\\C#\\Lesson3\\Task3\\Task3.csproj",
         "packagesPath": "C:\\Users\\shamg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shamg\\OneDrive\\Рабочий стол\\C#\\Task3\\obj\\",
+        "outputPath": "C:\\Users\\shamg\\OneDrive\\Рабочий стол\\C#\\Lesson3\\Task3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shamg\\AppData\\Roaming\\NuGet\\NuGet.Config"

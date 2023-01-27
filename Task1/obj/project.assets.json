@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shamg\\OneDrive\\Рабочий стол\\C#\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\Users\\shamg\\OneDrive\\Рабочий стол\\C#\\Lesson3\\Task1\\Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "C:\\Users\\shamg\\OneDrive\\Рабочий стол\\C#\\Task1\\Task1.csproj",
+      "projectPath": "C:\\Users\\shamg\\OneDrive\\Рабочий стол\\C#\\Lesson3\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\shamg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shamg\\OneDrive\\Рабочий стол\\C#\\Task1\\obj\\",
+      "outputPath": "C:\\Users\\shamg\\OneDrive\\Рабочий стол\\C#\\Lesson3\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shamg\\AppData\\Roaming\\NuGet\\NuGet.Config"

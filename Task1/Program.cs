@@ -1,14 +1,48 @@
-﻿// Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
-System.Console.WriteLine("Введите первое число > ");
-int firstNumber = Convert.ToInt32(Console.ReadLine());
-System.Console.WriteLine("Введите второе число > ");
-int secondNumber = Convert.ToInt32(Console.ReadLine());
+﻿// Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом. Не используйте строки
+int InputNumber (string message)
+{
+    System.Console.Write(message + " > ");
+    string? number = Console.ReadLine();
+    if (int.TryParse(number, out int variable)) 
+    {
+        return variable;
+    }
+    System.Console.WriteLine("Это не число");
+    return 0;
+}
 
-if (firstNumber > secondNumber)
+int ReverseNumber (int number)
+{
+    int temp = 0;
+    int reverse = 0;
+    temp = number;
+    while (temp > 0)
     {
-        Console.WriteLine($"Первое число {firstNumber} больше второго числа {secondNumber}");
+        reverse = reverse * 10;
+        reverse = reverse + temp % 10;
+        temp = temp / 10;
     }
+    return reverse;
+}
+bool Palindrom (int number)
+{
+    int reverse = ReverseNumber(number);
+    return number == reverse;
+}     
+
+int number = InputNumber("Введите любое число");
+if (number == 0)
+{
+    System.Console.WriteLine("Введенное значение не соответствует условию");
+}
 else
+{
+    if (Palindrom(number))
     {
-        Console.WriteLine($"Второе число {secondNumber} больше первого числа {firstNumber}");
+        System.Console.WriteLine ($"Введенное число {number} - палиндром");
     }
+        else
+    {
+        System.Console.WriteLine ($"Введенное число {number} - не палиндром");
+    }
+}
