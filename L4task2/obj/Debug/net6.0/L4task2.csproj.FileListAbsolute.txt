@@ -1,0 +1,15 @@
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson4\L4task2\obj\Debug\net6.0\L4task2.csproj.AssemblyReference.cache
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson4\L4task2\obj\Debug\net6.0\L4task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson4\L4task2\obj\Debug\net6.0\L4task2.AssemblyInfoInputs.cache
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson4\L4task2\obj\Debug\net6.0\L4task2.AssemblyInfo.cs
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson4\L4task2\obj\Debug\net6.0\L4task2.csproj.CoreCompileInputs.cache
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson4\L4task2\bin\Debug\net6.0\L4task2.exe
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson4\L4task2\bin\Debug\net6.0\L4task2.deps.json
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson4\L4task2\bin\Debug\net6.0\L4task2.runtimeconfig.json
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson4\L4task2\bin\Debug\net6.0\L4task2.dll
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson4\L4task2\bin\Debug\net6.0\L4task2.pdb
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson4\L4task2\obj\Debug\net6.0\L4task2.dll
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson4\L4task2\obj\Debug\net6.0\refint\L4task2.dll
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson4\L4task2\obj\Debug\net6.0\L4task2.pdb
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson4\L4task2\obj\Debug\net6.0\L4task2.genruntimeconfig.cache
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson4\L4task2\obj\Debug\net6.0\ref\L4task2.dll
