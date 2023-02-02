@@ -1,0 +1,15 @@
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson5\L5task3\obj\Debug\net6.0\L5task3.csproj.AssemblyReference.cache
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson5\L5task3\obj\Debug\net6.0\L5task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson5\L5task3\obj\Debug\net6.0\L5task3.AssemblyInfoInputs.cache
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson5\L5task3\obj\Debug\net6.0\L5task3.AssemblyInfo.cs
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson5\L5task3\obj\Debug\net6.0\L5task3.csproj.CoreCompileInputs.cache
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson5\L5task3\bin\Debug\net6.0\L5task3.exe
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson5\L5task3\bin\Debug\net6.0\L5task3.deps.json
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson5\L5task3\bin\Debug\net6.0\L5task3.runtimeconfig.json
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson5\L5task3\bin\Debug\net6.0\L5task3.dll
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson5\L5task3\bin\Debug\net6.0\L5task3.pdb
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson5\L5task3\obj\Debug\net6.0\L5task3.dll
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson5\L5task3\obj\Debug\net6.0\refint\L5task3.dll
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson5\L5task3\obj\Debug\net6.0\L5task3.pdb
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson5\L5task3\obj\Debug\net6.0\L5task3.genruntimeconfig.cache
+C:\Users\shamg\OneDrive\Рабочий стол\C#\Lesson5\L5task3\obj\Debug\net6.0\ref\L5task3.dll
